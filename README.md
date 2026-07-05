@@ -46,6 +46,13 @@ The dataset contains information about Instagram users, including:
 
 ---
 
+## 📥 Power BI Dashboard
+
+**Download the PBIX & DATA SET file here:**  
+[Google Drive - Power BI Dashboard and Dataset](https://drive.google.com/drive/folders/11vIlOBLZyZv9Iftj_eV2byqqRG-ahY-X?usp=sharing)
+
+---
+
 ## 🛠 Data Preparation
 
 Data preprocessing was performed using **Power Query**.
@@ -155,8 +162,7 @@ This page provides:
 
 ## 🏠 Project Description
 
-![Project Description](<img width="1429" height="783" alt="Screenshot 2026-07-05 202852" src="https://github.com/user-attachments/assets/d6672b20-6ec0-46c3-ad24-f86545b41f9a" />
-)
+![Project Description](https://github.com/Sayali979/Instagram-Usage-Lifestyle-Impact-Analysis-Power-BI/blob/main/Audience%20Overview.png)
 
 ---
 
