@@ -162,21 +162,19 @@ This page provides:
 
 ## 🏠 Project Description
 
-![Project Description](https://github.com/Sayali979/Instagram-Usage-Lifestyle-Impact-Analysis-Power-BI/blob/main/Audience%20Overview.png)
+![Project Description](https://github.com/Sayali979/Instagram-Usage-Lifestyle-Impact-Analysis-Power-BI/blob/main/Project%20Description.png)
 
 ---
 
 ## 📈 User Behavior Analysis
 
-![User Behavior Analysis](<img width="1322" height="805" alt="Screenshot 2026-07-05 202908" src="https://github.com/user-attachments/assets/43c6160a-7638-422c-9872-9611416f35a1" />
-)
+![User Behavior Analysis](https://github.com/Sayali979/Instagram-Usage-Lifestyle-Impact-Analysis-Power-BI/blob/main/User%20Behavior%20Analysis.png)
 
 ---
 
 ## 🌍 Audience Overview
 
-![Audience Overview](<img width="1306" height="804" alt="Screenshot 2026-07-05 202930" src="https://github.com/user-attachments/assets/390c7958-b22a-4a7a-baca-58eb9e6c991d" />
-)
+![Audience Overview](https://github.com/Sayali979/Instagram-Usage-Lifestyle-Impact-Analysis-Power-BI/blob/main/Audience%20Overview.png)
 
 ---
 
