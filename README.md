@@ -155,19 +155,22 @@ This page provides:
 
 ## 🏠 Project Description
 
-![Project Description](Images/project-description.png)
+![Project Description](<img width="1429" height="783" alt="Screenshot 2026-07-05 202852" src="https://github.com/user-attachments/assets/d6672b20-6ec0-46c3-ad24-f86545b41f9a" />
+)
 
 ---
 
 ## 📈 User Behavior Analysis
 
-![User Behavior Analysis](Images/user-behavior-analysis.png)
+![User Behavior Analysis](<img width="1322" height="805" alt="Screenshot 2026-07-05 202908" src="https://github.com/user-attachments/assets/43c6160a-7638-422c-9872-9611416f35a1" />
+)
 
 ---
 
 ## 🌍 Audience Overview
 
-![Audience Overview](Images/audience-overview.png)
+![Audience Overview](<img width="1306" height="804" alt="Screenshot 2026-07-05 202930" src="https://github.com/user-attachments/assets/390c7958-b22a-4a7a-baca-58eb9e6c991d" />
+)
 
 ---
 
